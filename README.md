@@ -5,6 +5,7 @@ I like to learn new things, so even if I don't know something I'll do my best to
 
 ## Skills and Experiance:
 * ☕ Java
+* 📱 Kotlin
 * 🇨 C++/C#
 * 🔌 Minecraft Plugin Development
 * 🎞️ Video Editing
