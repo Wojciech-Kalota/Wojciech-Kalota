@@ -7,6 +7,9 @@ I like to learn new things, so even if I don't know something I'll do my best to
 * ☕ Java
 * 📱 Kotlin
 * 🇨 C++/C#
+* 🐍 Python
 * 🔌 Minecraft Plugin Development
+* 🖥️ Desktop applications
+* 📱 Mobile development
 * 🎞️ Video Editing
 * 📝 Microsoft Office
