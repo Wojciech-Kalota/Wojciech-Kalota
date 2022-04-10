@@ -8,8 +8,9 @@ I like to learn new things, so even if I don't know something, I'll do my best t
 * 📱 Kotlin
 * 🇨 C++/C#
 * 🐍 Python
-* 🔌 Minecraft Plugin Development
-* 🖥️ Desktop applications
 * 📱 Mobile development
+* 🖥️ Desktop applications
+* 🔌 Minecraft Plugin Development
 * 🎞️ Video Editing
 * 📝 Microsoft Office
+* 📈 Marketing
