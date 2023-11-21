@@ -16,7 +16,7 @@ I like to learn new things, so even if I don't know something, I'll do my best t
 * 🎞️ Video Editing
 * 📝 Microsoft Office
 * 📈 Marketing
-
+* 🌐 Web development
 
 ## Currently learning:
-* 🌐 Web development
+* ©️ Software License Agreements
