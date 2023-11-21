@@ -8,7 +8,7 @@ I like to learn new things, so even if I don't know something, I'll do my best t
 * 📱 Kotlin
 * 🇨 C++/C#
 * 🐍 Python
-* * 🌐 Web development
+* 🌐 Web development
 * 📱 Mobile development
 * 🖥️ Desktop applications
 * 🔌 Minecraft Plugin Development
