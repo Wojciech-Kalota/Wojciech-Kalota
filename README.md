@@ -4,18 +4,24 @@ My name is Wojciech Kalota, and I'm interested in all stuff related to programmi
 I like to learn new things, so even if I don't know something, I'll do my best to change that the moment I realize it.
 
 ## Skills and Experience:
+
+### Intermediate:
 * ☕ Java
-* 📱 Kotlin
-* 🇨 C++/C#
+* 🇨 C#
 * 🐍 Python
-* 🌐 Web development
-* 📱 Mobile development
-* 🖥️ Desktop applications
+* 🌐 Web Development
 * 🔌 Minecraft Plugin Development
-* 🤖 Bot development
 * 🧮 Algorithms
 * 🎞️ Video Editing
 * 📝 Microsoft Office
+### Beginner:
+* 🇨 C++
+* 📱 Kotlin
+* 🐚 Powershell
+* 🐧 Bash
+* 📱 Mobile development
+* 🖥️ Desktop applications
+* 🤖 Bot development
 * 📈 Marketing
 
 ## Currently learning:
