@@ -9,7 +9,9 @@ I like to learn new things, so even if I don't know something, I'll do my best t
 * ☕ Java
 * 🇨 C#
 * 🐍 Python
+* 🗃️ SQL
 * 🌐 Web Development
+* 🗄️ Databases
 * 🔌 Minecraft Plugin Development
 * 🧮 Algorithms
 * 🎞️ Video Editing
