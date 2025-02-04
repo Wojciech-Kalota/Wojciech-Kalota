@@ -18,6 +18,7 @@ I like to learn new things, so even if I don't know something, I'll do my best t
 * 📝 Microsoft Office
 ### Beginner:
 * 🇨 C++
+* 🇨 C
 * 📱 Kotlin
 * 🐚 Powershell
 * 🐧 Bash
