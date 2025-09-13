@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-My name is Wojciech Kalota, and I'm interested in all stuff related to programming and computer science.
-I like to learn new things, so even if I don't know something, I'll do my best to change that the moment I realize it.
+My name is Wojciech Kalota, and I'm interested in everything related to programming and computer science.
+<br>
+I know a little bit of everything and I like to learn new things :)
 
 ## Skills and Experience:
 
@@ -12,7 +13,10 @@ I like to learn new things, so even if I don't know something, I'll do my best t
 * 🗃️ SQL
 * 🌐 Web Development
 * 🗄️ Databases
+* 🐧 Bash
 * 🔌 Minecraft Plugin Development
+* 🤖 Bot development
+* 👨‍🏫 Teaching
 * 🧮 Algorithms
 * 🎞️ Video Editing
 * 📝 Microsoft Office
@@ -21,10 +25,8 @@ I like to learn new things, so even if I don't know something, I'll do my best t
 * 🇨 C
 * 📱 Kotlin
 * 🐚 Powershell
-* 🐧 Bash
 * 📱 Mobile development
 * 🖥️ Desktop applications
-* 🤖 Bot development
 * 📈 Marketing
 
 ## Currently learning:
