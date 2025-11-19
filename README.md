@@ -28,6 +28,3 @@ I know a little bit of everything and I like to learn new things :)
 * 📱 Mobile development
 * 🖥️ Desktop applications
 * 📈 Marketing
-
-## Currently learning:
-* ©️ Software License Agreements
